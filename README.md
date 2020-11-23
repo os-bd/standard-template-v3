@@ -1,5 +1,13 @@
 # standard-template-v3
 
+新建项目工程模版
+
+已集成基础工具：Babel、Typescript 4、Less、esLint 以及 swagger-bridge
+
+运行时集成：core-js、vue-router、Ant design Vue 2.x
+
+
+
 ## Project setup
 ```
 npm install

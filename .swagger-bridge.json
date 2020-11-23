@@ -1,0 +1,16 @@
+{
+    "datapub": {
+      "url": "http://localhost:8000/website/swagger/swagger-datapub.json",
+      "mock-data": false,
+      "unittest": false,
+      "exclude": ["/test/"],
+      "version": "3"
+    },
+    "platform": {
+      "url": "http://localhost:8000/website/swagger/swagger-platform.json",
+      "mock-data": false,
+      "unittest": false,
+      "exclude": ["/test/"],
+      "version": "3"
+    }
+  }
